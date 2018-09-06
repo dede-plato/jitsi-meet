@@ -7,6 +7,7 @@ PODS:
     - DoubleConversion
     - glog
   - glog (0.3.4)
+  - ObjectiveDropboxOfficial (3.9.1)
   - React (0.55.4):
     - React/Core (= 0.55.4)
   - react-native-background-timer (2.0.0):
@@ -82,6 +83,7 @@ DEPENDENCIES:
   - DoubleConversion (from `../node_modules/react-native/third-party-podspecs/DoubleConversion.podspec`)
   - Folly (from `../node_modules/react-native/third-party-podspecs/Folly.podspec`)
   - glog (from `../node_modules/react-native/third-party-podspecs/glog.podspec`)
+  - ObjectiveDropboxOfficial
   - react-native-background-timer (from `../node_modules/react-native-background-timer`)
   - react-native-calendar-events (from `../node_modules/react-native-calendar-events`)
   - react-native-fast-image (from `../node_modules/react-native-fast-image`)
@@ -107,6 +109,7 @@ SPEC REPOS:
   https://github.com/cocoapods/specs.git:
     - boost-for-react-native
     - FLAnimatedImage
+    - ObjectiveDropboxOfficial
     - SDWebImage
 
 EXTERNAL SOURCES:
@@ -145,6 +148,7 @@ SPEC CHECKSUMS:
   FLAnimatedImage: 4a0b56255d9b05f18b6dd7ee06871be5d3b89e31
   Folly: 211775e49d8da0ca658aebc8eab89d642935755c
   glog: 1de0bb937dccdc981596d3b5825ebfb765017ded
+  ObjectiveDropboxOfficial: 274ce69d66286c94416daf1da5237c55e105e8c0
   React: aa2040dbb6f317b95314968021bd2888816e03d5
   react-native-background-timer: 63dcbf37dbcf294b5c6c071afcdc661fa06a7594
   react-native-calendar-events: fe6fbc8ed337a7423c98f2c9012b25f20444de09
@@ -158,6 +162,6 @@ SPEC CHECKSUMS:
   SDWebImage: 624d6e296c69b244bcede364c72ae0430ac14681
   yoga: a23273df0088bf7f2bb7e5d7b00044ea57a2a54a
 
-PODFILE CHECKSUM: 1d5c8382f73d9540fac68d93b32e1d3b58d069ee
+PODFILE CHECKSUM: 80be089af6a325d03b6f6a0ccf2ebbc87fd42ea4
 
 COCOAPODS: 1.5.3
